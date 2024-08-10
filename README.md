@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h2 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahadat Hossain</h2>
+<h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shahadat Hossain</h3>
 <h3 align="center">WordPress Theme & Plugin Developer.</h3>
 <h1 align="center">Working at <a href="https://xgenious.com/">Xgenious</a></h1>
 
